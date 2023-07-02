@@ -235,7 +235,7 @@ input:hover{
 }
 
 .movie-2:hover{
-    background-color: rgba(28, 229, 129, 0.993);
+    background-color: rgba(120, 231, 60, 0.993);
     border: 1px solid rgb(0, 0, 0);
     transform: translate(5px);
 }
